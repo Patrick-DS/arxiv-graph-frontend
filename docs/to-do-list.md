@@ -35,4 +35,9 @@
 - Figure out how you would build an "editor" functionality
 - ***Build an LLM-based application that could read a classical math document and build the required data structures out of it, so that an "import to ArXiv graph" functionality could exist. The editor could then be used to further break down the graph as the author desires.
 
-Back to [index](./index.md)
+<br>
+<br>
+<br>
+<br>
+
+Back to [Table of Contents](./index.md)
